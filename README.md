@@ -8,6 +8,7 @@ I’m passionate about cybersecurity and focused on building practical, hands-on
 
 - **[Vulnerability Management Program Implementation](https://github.com/nathanielbowers0/Vulnerability-Management-Program/blob/main/README.md)**
 - **[Windows 11 STIG Remediation Lab (WN11-00-000115)](https://github.com/nathanielbowers0/windows-stig-implementation)**
+- **[Windows STIG Implementation Project](https://github.com/nathanielbowers0/windows-stig-implementation)**
 
 ---
 
