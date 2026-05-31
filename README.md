@@ -13,7 +13,7 @@ Security focused professional with interests in security operations, vulnerabili
 
 ## 🚨 Threat Hunting and Security Operations
 
-- Threat hunting and SOC-focused labs coming soon.
+
 
 ---
 
