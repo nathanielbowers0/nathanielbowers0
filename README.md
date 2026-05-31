@@ -13,7 +13,8 @@ Security focused professional specializing in security operations, vulnerability
 
 ## 🚨 Threat Hunting and Security Operations
 
-
+**Building a Security Operations Center (SOC) in Azure**
+-Deploying Microsoft Sentinel, Log Analytics, KQL detections, and security monitoring workflows in an Azure environment.
 
 ---
 
