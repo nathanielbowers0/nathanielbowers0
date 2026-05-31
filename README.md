@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/nathanielmbowers/">Nathaniel Bowers</a> | Cybersecurity & Security Engineering Portfolio 🔐
 
-I’m passionate about cybersecurity and focused on building practical, hands-on solutions that strengthen security operations. My projects span vulnerability management, threat detection, endpoint security, compliance auditing, and process automation. I approach every challenge with a structured, systems-driven mindset and a commitment to improving real-world security environments.
+Security focused professional with interests in security operations, vulnerability management, threat detection, and endpoint security. This portfolio highlights projects focused on vulnerability management, security hardening, threat detection, and security operations.
 
 ---
 
