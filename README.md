@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/nathanielmbowers/">Nathaniel Bowers</a> | Cybersecurity & Security Engineering Portfolio 🔐
+# <a href="https://www.linkedin.com/in/nathanielmbowers/">Nathaniel Bowers</a> | Cybersecurity Portfolio
 
 Security focused professional with interests in security operations, vulnerability management, threat detection, and endpoint security. This portfolio highlights projects focused on vulnerability management, security hardening, threat detection, and security operations.
 
